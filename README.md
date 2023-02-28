@@ -34,10 +34,11 @@ real_estate%>%
   labs(title = "Average price of house per State", x = "Average_Price", y = "State")
 ```
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/114123232/221841691-8056ad52-74be-484e-ba91-ad7d72758ab0.png" height="80%" width="80%"/>
+<br />
+
 #### This bar chart above shows the average price of house per State. It is also in descending order, which teaches us that New York has the highest price per house while South Carolina has the lowest. From New Jersey to Vermont the average is close to $500,000.
-
-
-
 
 ## Relationship Between Bed and House Size
 
