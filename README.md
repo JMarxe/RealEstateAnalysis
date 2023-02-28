@@ -51,6 +51,10 @@ real_estate%>%
   labs(title = "House Size Compared to Number of Beds",subtitle = "In New York", x = " Bed", y = "House_Size")
 ```
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/114123232/221842487-54b5de36-6556-4e4f-ba49-345afb8cfbe7.png" height="80%" width="80%"/>
+<br />
+
 #### This shows the relationship between the quantity of beds and house size in New York. Most Houses are between 0-20 beds but close to 30,000 sq/feet. This shows that more beds do not necessarily equal to bigger houses. We can also see fewer but more distant outliers in the house size area than in the numbers of bed area.
 
 ## Price and House Size in Puerto Rico, San Juan
@@ -65,6 +69,10 @@ real_estate %>%
   scale_y_continuous(labels = dollar_format()) +
   labs(x = "House Size", y = "Price", title = "Relationship between House Size and Price in San Juan, Puerto Rico", caption = "Majority of house sizes in San Juan are less than 10000 with the price being extremely low, close to zero.")
 ```
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/114123232/221843488-1546ac57-e45b-4b47-9091-036a57642ae0.png" height="80%" width="80%"/>
+<br />
 
 #### This scatter plot gives me an understanding of the relationship between house sizes and prices in a specific location. My intention with making this visual is for me to get a better understanding of how much it would cost to live in San Juan, Puerto Rico and what I found was that prices were extremely low with house sizes less than 10000 sq feet reaching close to 0$. The outliers being the 2 house sizes nearing 30000 sq feet. This was useful in our research as Puerto Rico was one of the states with significant data and we wanted to determine if greater house sizes would result in greater prices. While small house sizes seem to correlate with low prices it fluctuates significantly as it appears that small house sizes can have big prices than big house sizes and vice versa. 
 
@@ -84,6 +92,10 @@ real_estate %>%
   
 ```
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/114123232/221843800-aefcc150-1060-4489-9938-53022d59646a.png" height="80%" width="80%"/>
+<br />
+
 #### This boxplot provides a better representation of the relationship between house sizes and prices in Woonsocket, Rhode Island as we were looking for how different it would be if we selected specifically 3 bed and 2 bath houses. In this visual we can see that there is a cluster and countable outliers as the majority of house sizes between 1200-1800 sq ft have a price range from $190,000-$400,000. This displays to use that a bigger house size doesn't correlate with a greater price as for example a house size of 1560 sq ft has a price of about $300,000 while a house size of 1250 sq ft has a price of about $400,000. This was useful to our research because it implies that other variables such as location and state play a big factor in determining price. 
 
 
@@ -101,8 +113,11 @@ real_estate %>%
   labs (x = "Price", y = "City in Puerto Rico") +
   labs (title = "House Prices in Puerto Rico" , subtitle = "In one of the cities in PR, Ponce") 
 
-
 ```
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/114123232/221844098-05c67f2a-c4b5-4277-a2e3-a8336a435001.png" height="80%" width="80%"/>
+<br />
 
 #### In the boxplot above, it shows the house prices in Ponce, Puerto Rico. You can see that the average price of houses in the city ranges from about $100,000 to $250,000. While that's considered the average, there are some houses that are more expensive then that, and the most expensive house in the city is almost $2 million dollars. 
 
@@ -120,6 +135,10 @@ real_estate %>%
   labs(title = "States with the most houses for sale", subtitle = "Top 10")
 
 ```
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/114123232/221844406-f3f1d43e-dd2e-49fb-844c-eb9754d7c5e9.png" height="80%" width="80%"/>
+<br />
 
 #### A bar graph was created to show the top 10 states with the most houses for sale. You can see that New Jersey has the most, while New York almost has the same amount of houses for sale as New Jersey. You can also see that Puerto Rico is on the top 10 list because they have around 25,000 houses for sale. 
 
