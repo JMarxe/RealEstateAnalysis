@@ -1,5 +1,9 @@
 # Real Estate Data Analysis (R)
 
+<p align="center">
+<img src="https://assets.thewanderinginvestor.com/wp-content/uploads/20200913005157/suburbs-980x491.jpg" height="80%" width="80%"/>
+<br />
+
 ## Introduction
 
 #### This Dataset contains Real Estate statistics in the US broken by State and zip code. Data was collected via web scraping using python libraries, extracted from Realtor.com with a Temporal Coverage Start Date of 02/28/2022 and an End Date of 03/16/2022. This CSV file contains the following variables: status, price, bed, bath, acre_lot, full address, street, city, state, zip_code, house_size, and sold_date. With this Dataset we would like to predict the housing prices based on this data given, find which location has the highest prices, the correlation between house prices and other attributes, and the trend behind the housing prices. 
