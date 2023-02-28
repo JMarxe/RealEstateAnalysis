@@ -1,4 +1,4 @@
-# Real Estate Data Analysis (R)
+# USA Real Estate Data Analysis (R)
 
 <p align="center">
 <img src="https://assets.thewanderinginvestor.com/wp-content/uploads/20200913005157/suburbs-980x491.jpg" height="80%" width="80%"/>
